@@ -1,0 +1,14 @@
+html, body {
+	background: #33FFD0;
+	font-family: 'Ravi Prakash', cursive;
+	color: #000000;
+	margin: 0px;
+	padding: 0px;
+	overflow-x: hidden;
+}
+
+h1 {
+	font-weight: 900;
+	text-align: center;
+}
+
